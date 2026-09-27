@@ -1,0 +1,5 @@
+streamlit>=1.45
+requests>=2.32
+pandas>=2.2
+numpy>=2.0
+scipy>=1.13
